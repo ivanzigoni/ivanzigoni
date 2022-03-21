@@ -1,5 +1,6 @@
-[Stack Overflow](https://stackoverflow.com/users/16532168/zigoni)<br>
-[Linkedin](https://www.linkedin.com/in/ivan-zigoni/)
+⭐ [Stack Overflow](https://stackoverflow.com/users/16532168/zigoni)<br>
+⭐ [Linkedin](https://www.linkedin.com/in/ivan-zigoni/)<br>
+⭐ [About me!](https://ivanzigoni.github.io/)
 
 <div>
 <a href="https://github.com/ivanzigoni">
