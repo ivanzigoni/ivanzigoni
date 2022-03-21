@@ -19,7 +19,7 @@ const skills = {
     'Docker',
     'MySQL',
     'Sequelize',
-    'OOP',
+    'OOP'
   ],
   soft: [
     'English C2 Proficient',
