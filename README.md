@@ -1,4 +1,4 @@
-[Stack Overflow](https://stackoverflow.com/users/16532168/zigoni)
+[Stack Overflow](https://stackoverflow.com/users/16532168/zigoni)<br>
 [Linkedin](https://www.linkedin.com/in/ivan-zigoni/)
 
 <div>
