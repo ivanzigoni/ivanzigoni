@@ -1,3 +1,5 @@
+[Stack Overflow](https://stackoverflow.com/users/16532168/zigoni)
+[Linkedin](https://www.linkedin.com/in/ivan-zigoni/)
 
 <div>
 <a href="https://github.com/ivanzigoni">
