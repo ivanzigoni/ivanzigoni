@@ -1,3 +1,6 @@
+Atualmente trabalhando como Summer Job @Trybe!
+
+
 ⭐ [Stack Overflow](https://stackoverflow.com/users/16532168/zigoni)<br>
 ⭐ [Linkedin](https://www.linkedin.com/in/ivan-zigoni/)<br>
 ⭐ [About me!](https://ivanzigoni.github.io/)<br>
