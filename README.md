@@ -2,7 +2,7 @@
 ⭐ [Linkedin](https://www.linkedin.com/in/ivan-zigoni/)<br>
 ⭐ [About me!](https://ivanzigoni.github.io/)<br>
 
-```
+```js
 const skills = {
   hard: [
     'HTML',
