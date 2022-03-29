@@ -2,7 +2,7 @@
 
 Recém chegado na área do desenvolvimento. Sempre gostei de resolver problemas, usar e descobrir ferramentas e assuntos novos. Também gosto de escrever. Bastou uma curiosidade na direção certa e eu caí no freeCodeCamp. De lá, fui estudar na Trybe. E agora trabalho como Summer de Currículo! 😅
 
-O próximo passo é achar um time maneiro que me acolha e me desafie até o talo, me permita contribuir e aprender, compartilhar e receber bastante.
+O próximo passo é achar um time maneiro que me acolha e me desafie, me permita contribuir e aprender, compartilhar e receber.
 
 <p align="center">
   <a href="https://stackoverflow.com/users/16532168/zigoni">⭐ Stack Overflow ⭐</a><br>
