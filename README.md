@@ -1,6 +1,6 @@
 ### Olá!
 
-Recém chegado na área do desenvolvimento. Sempre gostei de resolver problemas, usar e descobrir ferramentas e assuntos novos. Também gosto de escrever. Bastou uma curiosidade na direção certa e eu caí no freeCodeCamp. De lá, fui estudar na Trybe. E agora trabalho como Summer de Currículo! 😅
+Recém chegado na área do desenvolvimento. Sempre gostei de resolver problemas, usar e descobrir ferramentas e assuntos novos. Também gosto de escrever. Bastou uma curiosidade na direção certa e eu caí no freeCodeCamp. De lá, fui estudar na [Trybe](https://www.betrybe.com/). E agora trabalho como Summer de Currículo na própria escola! 😅
 
 O próximo passo é achar um time maneiro que me acolha e me desafie, me permita contribuir e aprender, compartilhar e receber.<br><br>
 
@@ -12,7 +12,11 @@ O próximo passo é achar um time maneiro que me acolha e me desafie, me permita
   <br><br>
 </p>
 
-Caso deseje conhecer alguns dos meus projetos, você pode ir até [minha página](https://ivanzigoni.github.io/) ou ir até os projetos pinados logo ali embaixo. Ali estão alguns projetos pequenos que realizei tanto na Trybe quanto de forma autônoma, mas fique atento ou atenta, sempre coloco algo novo com novas tecnologias por aqui! 😊
+Caso deseje conhecer alguns dos meus projetos, você pode ir até [minha página](https://ivanzigoni.github.io/) ou ir até os projetos pinados logo ali embaixo. Ali estão alguns projetos pequenos que realizei tanto na Trybe quanto de forma autônoma.
+
+🚨 ATENÇÃO 🚨
+
+Vira e mexe eu coloco algo novo com novas tecnologias por aqui ou interajo com projetos que acho interessante! 😊
 
 ```js
 const skills = {
