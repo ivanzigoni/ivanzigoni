@@ -12,7 +12,7 @@ O próximo passo é achar um time maneiro que me acolha e me desafie, me permita
   <br><br>
 </p>
 
-Caso deseje conhecer alguns dos meus projetos, você pode ir até [minha página](https://ivanzigoni.github.io/) ou ir até os projetos pinados logo ali embaixo. Ali estão alguns projetos pequenos que realizei tanto na Trybe quanto de forma autônoma.
+Caso deseje conhecer alguns dos meus projetos, você pode ir até [minha página](https://ivanzigoni.github.io/) ou ir até os projetos pinados logo ali embaixo. Ali estão algumas pequenas experimentaçẽs que realizei tanto na Trybe quanto de forma autônoma.
 
 🚨 ATENÇÃO 🚨
 
