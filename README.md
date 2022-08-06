@@ -1,4 +1,4 @@
-Web Fullstack Typescript.
+Web Fullstack Typescript. Nowadays doing mostly backend with Nestjs and relational dbs.
 
 Atualmente trabalhando através do Gitlab!
 
